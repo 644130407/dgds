@@ -1,0 +1,24 @@
+[ 2015-06-04T16:00:36+08:00 ] ::1 /1/dgds/Application/Admin/View/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-04T16:02:32+08:00 ] ::1 /1/dgds/Application/Admin/View/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-04T16:02:52+08:00 ] ::1 /1/dgds/Application/Admin/View/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-04T16:18:23+08:00 ] ::1 /1/dgds/Application/Admin/View/assets/font/fontawesome-webfont.eot?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Dgds
+

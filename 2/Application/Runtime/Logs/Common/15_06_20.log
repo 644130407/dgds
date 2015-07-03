@@ -1,0 +1,330 @@
+[ 2015-06-20T21:55:13+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:06:21+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:06:29+08:00 ] ::1 /dgds_6.18/2/dgds/dgds/Application/Assets/Admin/js/jquery-1.11.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:06:34+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:11:00+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:11:04+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:30:45+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:31:12+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:31:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:31:36+08:00 ] ::1 /dgds_6.18/2/dgds/dgds/Application/Assets/Admin/js/jquery-1.11.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:33:46+08:00 ] ::1 /dgds_6.18/2/dgds/dgds/Application/Assets/Admin/js/jquery-1.11.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:35:46+08:00 ] ::1 /dgds_6.18/2/dgds/dgds/Application/Assets/Admin/js/jquery-1.11.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:36:51+08:00 ] ::1 /dgds_6.18/2/dgds/dgds/Application/Assets/Admin/js/jquery-1.11.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:37:36+08:00 ] ::1 /dgds_6.18/2/dgds/dgds/Application/Assets/Admin/js/jquery-1.11.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:38:20+08:00 ] ::1 /dgds_6.18/2/dgds/dgds/Application/Assets/Admin/js/jquery-1.11.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:38:47+08:00 ] ::1 /dgds_6.18/2/dgds/dgds/Application/Assets/Admin/js/jquery-1.11.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:38:55+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:40:58+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:41:30+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:42:01+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:43:05+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:43:49+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:44:32+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:45:38+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:46:12+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:46:46+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:46:55+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:50:12+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T22:50:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/ace.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/ace-rtl.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/ace-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001804s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:27+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:02:48+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:03:02+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:09:36+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:09:37+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:13:20+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:40:13+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:54:02+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-20T23:55:41+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Dgds
+

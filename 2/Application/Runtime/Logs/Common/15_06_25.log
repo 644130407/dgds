@@ -1,0 +1,18 @@
+[ 2015-06-25T16:02:53+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Home/Public/css/images/fangdajing.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-25T16:39:13+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-25T16:56:38+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Home/Public/css/images/fangdajing.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Dgds
+

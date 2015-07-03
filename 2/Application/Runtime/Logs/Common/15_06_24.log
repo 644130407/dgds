@@ -1,0 +1,42 @@
+[ 2015-06-24T09:32:42+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Home/Public/css/images/fangdajing.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-24T09:33:17+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Home/Public/css/images/fangdajing.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-24T09:55:52+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-24T09:56:07+08:00 ] ::1 /dgds_6.18/2/dgds/dgds/Application/Assets/Admin/js/jquery-1.11.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-24T09:56:23+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-24T16:11:41+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Home/Public/css/images/fangdajing.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Dgds
+
+[ 2015-06-24T16:25:56+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Home/Public/css/images/fangdajing.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001375s ]
+ERR: 无法加载模块:Dgds
+

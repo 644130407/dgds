@@ -1,0 +1,6 @@
+[ 2015-06-29T13:16:21+08:00 ] ::1 /dgds_6.18/2/dgds/Application/Admin/Public/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Dgds
+

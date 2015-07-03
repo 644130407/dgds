@@ -1,0 +1,24 @@
+[ 2015-06-04T16:05:49+08:00 ] ::1 /1/dgds/index.php/Admin/Article/index
+ERR: Syntax Error in template "./Application/Admin/View\Article\index.html"  on line 44 "//window.UEDITOR_CONFIG.imageUrl=&quot;{:U(GROUP_NAME.'/Blog/upload')}&quot;;//更改图片的Action控制器1.4.2以下"  - Unexpected ":"
+
+[ 2015-06-04T16:05:56+08:00 ] ::1 /1/dgds/index.php/Admin/Window/index
+ERR: Syntax Error in template "./Application/Admin/View\Window\index.html"  on line 17 "&lt;div&gt;&lt;a href=&quot;{:U('Admin'.'/Index/index')}&quot;&gt;返回主页&lt;/a&gt;&lt;/div&gt;"  - Unexpected ":"
+
+[ 2015-06-04T16:06:05+08:00 ] ::1 /1/dgds/index.php/Admin/Articlelist/index
+ERR: Syntax Error in template "./Application/Admin/View\Articlelist\index.html"  on line 15 "&lt;div&gt;&lt;a href=&quot;{:U('Admin'.'/Index/index')}&quot;&gt;返回主页&lt;/a&gt;&lt;/div&gt;"  - Unexpected ":"
+
+[ 2015-06-04T16:06:10+08:00 ] ::1 /1/dgds/index.php/Admin/Articlelist/index/column/1
+ERR: Syntax Error in template "./Application/Admin/View\Articlelist\index.html"  on line 15 "&lt;div&gt;&lt;a href=&quot;{:U('Admin'.'/Index/index')}&quot;&gt;返回主页&lt;/a&gt;&lt;/div&gt;"  - Unexpected ":"
+
+[ 2015-06-04T16:06:14+08:00 ] ::1 /1/dgds/index.php/Admin/Articlelist/index/type/17
+ERR: Syntax Error in template "./Application/Admin/View\Articlelist\index.html"  on line 15 "&lt;div&gt;&lt;a href=&quot;{:U('Admin'.'/Index/index')}&quot;&gt;返回主页&lt;/a&gt;&lt;/div&gt;"  - Unexpected ":"
+
+[ 2015-06-04T16:06:48+08:00 ] ::1 /1/dgds/index.php/Admin/Articlelist/index/type/17
+ERR: Syntax Error in template "./Application/Admin/View\Articlelist\index.html"  on line 15 "&lt;div&gt;&lt;a href=&quot;{:U('Admin'.'/Index/index')}&quot;&gt;返回主页&lt;/a&gt;&lt;/div&gt;"  - Unexpected ":"
+
+[ 2015-06-04T16:08:27+08:00 ] ::1 /1/dgds/index.php/Admin/Type/
+ERR: Syntax Error in template "./Application/Admin/View\Type\index.html"  on line 16 "&lt;div&gt;&lt;a href=&quot;{:U('Admin'.'/Index/index')}&quot;&gt;返回主页&lt;/a&gt;&lt;/div&gt;"  - Unexpected ":"
+
+[ 2015-06-04T16:08:48+08:00 ] ::1 /1/dgds/index.php/Admin/Index/index
+ERR: Syntax Error in template "./Application/Admin/View\Index\index.html"  on line 14 "&lt;div&gt;&lt;a href=&quot;{:U('Admin'.'/Articlelist/index',array('type'=&gt;1))}&quot;&gt;分局简介&lt;/a&gt;&lt;/div&gt;"  - Unexpected ":"
+

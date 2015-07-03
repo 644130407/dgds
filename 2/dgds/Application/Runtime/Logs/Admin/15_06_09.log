@@ -1,0 +1,6 @@
+[ 2015-06-09T11:41:12+08:00 ] ::1 /1/dgds/index.php/Admin/Article/articleadd
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'content' cannot be null
+
+[ 2015-06-09T11:41:29+08:00 ] ::1 /1/dgds/index.php/Admin/Article/articleadd
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'content' cannot be null
+

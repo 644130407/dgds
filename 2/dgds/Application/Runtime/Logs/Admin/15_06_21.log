@@ -1,0 +1,18 @@
+[ 2015-06-21T00:04:46+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Admin/Article/index
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dgds.nkbh_colum' doesn't exist
+
+[ 2015-06-21T00:13:04+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Admin/Article/change
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 1' at line 1
+
+[ 2015-06-21T00:36:21+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Admin/Assets/Admin/js/jquery-1.11.3.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2015-06-21T00:38:17+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Admin/Assets/Admin/js/jquery-1.11.3.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2015-06-21T00:40:47+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Admin/Assets/Admin/js/jquery-1.11.3.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2015-06-21T00:41:32+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Admin/Assets/Admin/js/jquery-1.11.3.min.js
+ERR: 无法加载控制器:Assets
+

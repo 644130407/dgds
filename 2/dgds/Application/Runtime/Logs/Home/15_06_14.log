@@ -1,0 +1,45 @@
+[ 2015-06-14T10:59:52+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.14575792332510962
+ERR: 无法加载控制器: User
+
+[ 2015-06-14T10:59:54+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.18665025699436266
+ERR: 无法加载控制器: User
+
+[ 2015-06-14T10:59:55+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.1869309910728595
+ERR: 无法加载控制器: User
+
+[ 2015-06-14T10:59:55+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.4089693821590856
+ERR: 无法加载控制器: User
+
+[ 2015-06-14T10:59:56+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.7482919816087455
+ERR: 无法加载控制器: User
+
+[ 2015-06-14T10:59:56+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.3539194625707138
+ERR: 无法加载控制器: User
+
+[ 2015-06-14T10:59:57+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.20236603829466326
+ERR: 无法加载控制器: User
+
+[ 2015-06-14T10:59:59+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.2625840491870376
+ERR: 无法加载控制器: User
+
+[ 2015-06-14T11:00:16+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.2625840491870376
+ERR: 无法加载控制器: User
+
+[ 2015-06-14T11:01:57+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/Index/login
+ERR: 模板不存在:./Application/Home/View/Index/userinfo.html
+
+[ 2015-06-14T16:15:50+08:00 ] 127.0.0.1 /1/dgds/index.php/User/login
+ERR: 非法操作:login
+
+[ 2015-06-14T16:22:31+08:00 ] 127.0.0.1 /1/dgds/index.php/User/login
+ERR: 非法操作:login
+
+[ 2015-06-14T16:47:37+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/uinfo_update
+ERR: 非法操作:uinfo_update
+
+[ 2015-06-14T17:25:56+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/User/user_info
+ERR: 非法操作:User
+
+[ 2015-06-14T17:26:17+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/User/user_info
+ERR: 非法操作:User
+

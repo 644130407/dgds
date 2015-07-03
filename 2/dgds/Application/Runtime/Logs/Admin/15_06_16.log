@@ -1,0 +1,15 @@
+[ 2015-06-16T08:11:22+08:00 ] 127.0.0.1 /1/dgds/index.php/Admin/Admin/admin_info_update
+ERR: 模板不存在:./Application/Admin/View/Home/infoupdate.html
+
+[ 2015-06-16T08:12:30+08:00 ] 127.0.0.1 /1/dgds/index.php/Admin/Admin/admin_info_update
+ERR: 模板不存在:./Application/Admin/View/User/infoupdate.html
+
+[ 2015-06-16T08:12:31+08:00 ] 127.0.0.1 /1/dgds/index.php/Admin/Admin/admin_info_update
+ERR: 模板不存在:./Application/Admin/View/User/infoupdate.html
+
+[ 2015-06-16T10:11:11+08:00 ] 127.0.0.1 /2/1/dgds/index.php/Admin/Login
+ERR: 无法加载控制器:Login
+
+[ 2015-06-16T16:00:02+08:00 ] 127.0.0.1 /2/dgds/index.php/Admin/Admin/index
+ERR: Think\Model:file方法不存在！
+

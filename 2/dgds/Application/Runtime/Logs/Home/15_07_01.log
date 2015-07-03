@@ -1,0 +1,21 @@
+[ 2015-07-01T20:38:08+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Articlelist/cindex/column/1
+ERR: 模板不存在:./Application/Home/View/Articlelist/cindex.html
+
+[ 2015-07-01T21:14:15+08:00 ] 192.168.1.101 /dgds_6.18/2/dgds/index.php/Index/www.hao123.com
+ERR: 非法操作:www.hao123
+
+[ 2015-07-01T21:15:24+08:00 ] 192.168.1.101 /dgds_6.18/2/dgds/index.php/Index/www.hao123.com
+ERR: 非法操作:www.hao123
+
+[ 2015-07-01T21:32:22+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Index/cindex/id/1
+ERR: 非法操作:cindex
+
+[ 2015-07-01T21:32:35+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Index/cindex/id/1
+ERR: 非法操作:cindex
+
+[ 2015-07-01T21:33:12+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Index/cindex/id/1
+ERR: 非法操作:cindex
+
+[ 2015-07-01T21:33:51+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Index/cindex/ctype/1
+ERR: 非法操作:cindex
+

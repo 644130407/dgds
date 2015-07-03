@@ -1,0 +1,24 @@
+[ 2015-06-08T20:08:15+08:00 ] ::1 /1/dgds/index.php/Admin/Rolewin
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dgds.nkbh_rolewin' doesn't exist
+
+[ 2015-06-08T21:07:32+08:00 ] ::1 /1/dgds/index.php/Admin/Index/seach
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like ) AND (  (  %% ) ) AND (  and )' at line 1
+
+[ 2015-06-08T21:07:37+08:00 ] ::1 /1/dgds/index.php/Admin/Index/seach
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like ) AND (  (  %% ) ) AND (  and )' at line 1
+
+[ 2015-06-08T21:07:41+08:00 ] ::1 /1/dgds/index.php/Admin/Index/seach
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like ) AND (  (  %% ) ) AND (  and )' at line 1
+
+[ 2015-06-08T22:00:46+08:00 ] ::1 /1/dgds/index.php/Admin/Index/seach
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like ) AND (  (  %% ) ) AND (  and )' at line 1
+
+[ 2015-06-08T22:00:55+08:00 ] ::1 /1/dgds/index.php/Admin/Index/seach
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like ) AND (  (  %% ) ) AND (  and )' at line 1
+
+[ 2015-06-08T22:01:13+08:00 ] ::1 /1/dgds/index.php/Admin/Index/seach
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like ) AND (  (  %% ) ) AND (  and )' at line 1
+
+[ 2015-06-08T22:09:11+08:00 ] ::1 /1/dgds/index.php/Admin/Index/seach
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like ) AND (  (  %% ) ) AND (  and ) AND `lable` LIKE '%%'' at line 1
+

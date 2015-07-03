@@ -1,0 +1,222 @@
+[ 2015-06-04T15:16:33+08:00 ] 127.0.0.1 /1/dgds/index.php/user/vfyerit
+ERR: 非法操作:vfyerit
+
+[ 2015-06-04T15:47:55+08:00 ] 127.0.0.1 /1/dgds/index.php/getVerify
+ERR: 无法加载控制器:GetVerify
+
+[ 2015-06-04T15:49:50+08:00 ] 127.0.0.1 /1/dgds/index.php/getVerify
+ERR: 无法加载控制器:GetVerify
+
+[ 2015-06-04T15:50:13+08:00 ] 127.0.0.1 /1/dgds/index.php/%27getVerify%27
+ERR: 无法加载控制器:'getVerify'
+
+[ 2015-06-04T15:50:14+08:00 ] 127.0.0.1 /1/dgds/index.php/%27getVerify%27
+ERR: 无法加载控制器:'getVerify'
+
+[ 2015-06-04T15:50:15+08:00 ] 127.0.0.1 /1/dgds/index.php/%27getVerify%27
+ERR: 无法加载控制器:'getVerify'
+
+[ 2015-06-04T15:51:32+08:00 ] 127.0.0.1 /1/dgds/index.php/user/%27getVerify%27
+ERR: 非法操作:'getVerify'
+
+[ 2015-06-04T15:57:53+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.6619200638658069
+ERR: 非法操作:getVerify.html0.6619200638658069
+
+[ 2015-06-04T15:57:54+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.8105738376517873
+ERR: 非法操作:getVerify.html0.8105738376517873
+
+[ 2015-06-04T15:57:55+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.5252088805802676
+ERR: 非法操作:getVerify.html0.5252088805802676
+
+[ 2015-06-04T15:57:55+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.9263822991378801
+ERR: 非法操作:getVerify.html0.9263822991378801
+
+[ 2015-06-04T15:59:12+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.6106660363933561
+ERR: 非法操作:getVerify.html0.6106660363933561
+
+[ 2015-06-04T15:59:44+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.7940327448020273
+ERR: 非法操作:getVerify.html0.7940327448020273
+
+[ 2015-06-04T16:06:54+08:00 ] 127.0.0.1 /1/dgds/index.php/user
+ERR: Syntax Error in template "./Application/Home/View\User\index.html"  on line 15 "&lt;form action=&quot;{:U('Home'.'/User/login')}&quot; method=&quot;post&quot; id=&quot;form&quot;&gt;"  - Unexpected ":"
+
+[ 2015-06-04T16:21:51+08:00 ] 127.0.0.1 /1/dgds/index.php/user
+ERR: Syntax Error in template "./Application/Home/View\User\index.html"  on line 15 "&lt;form action=&quot;{:U('Home'.'/User/login')}&quot; method=&quot;post&quot; id=&quot;form&quot;&gt;"  - Unexpected ":"
+
+[ 2015-06-04T16:22:18+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.31558326185613417
+ERR: 非法操作:getVerify.html0.31558326185613417
+
+[ 2015-06-04T16:23:40+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.6673178732505171
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:23:55+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.09210352877041772
+ERR: 非法操作:getVerify.html0.09210352877041772
+
+[ 2015-06-04T16:24:44+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.07702508979450096
+ERR: 非法操作:getVerify.html0.07702508979450096
+
+[ 2015-06-04T16:36:29+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.34069929451840153
+ERR: 非法操作:getVerify.html0.34069929451840153
+
+[ 2015-06-04T16:45:17+08:00 ] 127.0.0.1 /1/dgds/index.php/NaN
+ERR: 无法加载控制器:NaN
+
+[ 2015-06-04T16:45:21+08:00 ] 127.0.0.1 /1/dgds/index.php/NaN
+ERR: 无法加载控制器:NaN
+
+[ 2015-06-04T16:45:22+08:00 ] 127.0.0.1 /1/dgds/index.php/NaN
+ERR: 无法加载控制器:NaN
+
+[ 2015-06-04T16:45:39+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html0.8757842743946793
+ERR: 非法操作:getVerify.html0.8757842743946793
+
+[ 2015-06-04T16:46:35+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.185037256026657
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:46:52+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.693225499351611
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:46:56+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.2776435115266449
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:46:56+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.8873294971251223
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:46:57+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.33645583812808266
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:46:57+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.3096597417151069
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:46:57+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.683792329079361
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:46:58+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.576825345765629
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:46:58+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.5991935693206429
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:46:59+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.7487526734504701
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:48:05+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/1
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:48:17+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/1
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:48:36+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.23505530416336262
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:48:37+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.6438089393969915
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:48:42+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.6223530036976597
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:48:42+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.21790453505263363
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:48:44+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.8981583361634228
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:48:44+08:00 ] 127.0.0.1 /1/dgds/index.php/Home/User/getVerify.html/0.48754220992507835
+ERR: 非法操作:getVerify.html
+
+[ 2015-06-04T16:59:58+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.7127075784656038
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T16:59:59+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.6222656704017961
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:00:00+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.17605181494035915
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:00:00+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.8083421010137932
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:00:01+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.6278451965925144
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:00:01+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.48275453769563414
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:01:30+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.061419938799235685
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:03:00+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.7632729599901971
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:03:00+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.5449415166329759
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:03:00+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.008211015008235512
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:03:00+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.8033737315840651
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:03:01+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.6100951569022081
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:02+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.8894318753291651
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:02+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.03194170339178415
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:02+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.9109733617857299
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:02+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.07137272093604097
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:02+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.36510752796196344
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:03+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.8860489454901387
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:16+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.9539667407747489
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:35+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.569698830172206
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:49+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.2617272550182165
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:51+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.08130529968233136
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:51+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.9473985734645722
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:51+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.41683842905301294
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:52+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.3404286440490173
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:52+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.04642114504147954
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:52+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.14200153384550795
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:52+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.8906560771278846
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:52+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.9205259087793749
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:52+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.49172724098020193
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:53+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.35087760554639547
+ERR: 无法加载控制器: User
+
+[ 2015-06-04T17:04:53+08:00 ] 127.0.0.1 /1/dgds/index.php/Home%20/%20User%20/%20getVerify/0.2414314338726533
+ERR: 无法加载控制器: User
+

@@ -1,0 +1,9 @@
+[ 2015-06-21T11:03:30+08:00 ] ::1 /dgds_6.18/2/dgds/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dgds.nkbh_artcle' doesn't exist
+
+[ 2015-06-21T11:03:33+08:00 ] ::1 /dgds_6.18/2/dgds/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dgds.nkbh_artcle' doesn't exist
+
+[ 2015-06-21T17:10:21+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/Articlelist/index/type/1
+ERR: 无法加载控制器:Articlelist
+

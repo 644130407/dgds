@@ -1,0 +1,6 @@
+[ 2015-06-22T15:30:13+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/$v['link']
+ERR: 无法加载控制器:$v['link']
+
+[ 2015-06-22T15:33:05+08:00 ] ::1 /dgds_6.18/2/dgds/index.php/www.sina.com
+ERR: 无法加载控制器:Www.sina
+

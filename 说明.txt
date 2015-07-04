@@ -1,8 +1,0 @@
-前台页面：\2\dgds\Application\Home
-后台页面：\2\dgds\Application\Admin
-
-前台页面文件：\2\dgds\Application\Home\View
-后台页面文件：\2\dgds\Application\Admin\View
-
-前台JS，CSS文件夹：\2\dgds\Application\Home\Public
-后台JS，CSS文件夹：\2\dgds\Application\Admin\Public

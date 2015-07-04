@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50540
 File Encoding         : 65001
 
-Date: 2015-07-03 16:19:49
+Date: 2015-07-04 09:59:10
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -36,9 +36,9 @@ CREATE TABLE `nkbh_administrator` (
 -- ----------------------------
 -- Records of nkbh_administrator
 -- ----------------------------
-INSERT INTO `nkbh_administrator` VALUES ('1', 'admin', 'b59c67bf196a4758191e42f76670ceba', 'yjgly', '2', '办公室', '111111', '超级管理员', '192.168.1.101', '1435910578');
-INSERT INTO `nkbh_administrator` VALUES ('2', 'adminb', '934b535800b1cba8f96a5d72f72f1611', 'ejgly', '1', '2', '2', '二级管理员', '192.168.1.102', '1435031005');
-INSERT INTO `nkbh_administrator` VALUES ('3', 'adminc', '2be9bd7a3434f7038ca27d1918de58bd', 'sjgl', '1', '3', '3', '三级管理员', '192.168.1.102', '1435045275');
+INSERT INTO `nkbh_administrator` VALUES ('1', 'admin', 'b59c67bf196a4758191e42f76670ceba', '111232141', '你好', '办公室', '1111111111', '超级管理员', '0.0.0.0', '1435929085');
+INSERT INTO `nkbh_administrator` VALUES ('2', 'adminb', 'b59c67bf196a4758191e42f76670ceba', 'ejgly', '2', '2', '2', '二级管理员', '127.0.0.1', '1435579573');
+INSERT INTO `nkbh_administrator` VALUES ('3', 'adminc', 'b59c67bf196a4758191e42f76670ceba', 'sjgl', '3', '3', '3', '三级管理员', '0.0.0.0', '1435927805');
 
 -- ----------------------------
 -- Table structure for nkbh_article
@@ -55,16 +55,17 @@ CREATE TABLE `nkbh_article` (
   `top` int(2) DEFAULT NULL,
   `column` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=30 DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM AUTO_INCREMENT=31 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of nkbh_article
 -- ----------------------------
-INSERT INTO `nkbh_article` VALUES ('1', '这是第1条消息', '1', '2015-07-18', '<p>你好，这里是第一条测试消息</p>', '1', '1', null, '0');
+INSERT INTO `nkbh_article` VALUES ('1', '这是第1条消息', '1', '2015-07-18', '<p>你好，这里是第一条测试消息 海拉</p>', '1', '1', null, '0');
 INSERT INTO `nkbh_article` VALUES ('2', '这是第2条消息', null, '2015-07-18', '<p><span style=\"text-decoration: underline;\"><em><strong>1231243</strong></em></span><br/></p>', '2', '1', null, null);
+INSERT INTO `nkbh_article` VALUES ('30', '乁(๑˙ω˙๑乁)', 'adminc', '2015-07-22', '<p><img src=\"http://img.baidu.com/hi/jx2/j_0001.gif\"/></p>', '10', '0', null, null);
 INSERT INTO `nkbh_article` VALUES ('25', '看这里', 'admin', '2015-07-18', '<span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; font-size: 16px;\">让我们来看看</span>', '1', '1', null, null);
 INSERT INTO `nkbh_article` VALUES ('27', '周五下午进行测试第二条', 'admin', '2022-07-24', '<p>测试文章</p>', '12', '1', null, null);
-INSERT INTO `nkbh_article` VALUES ('28', '', 'admin', '', '', '0', '0', null, null);
+INSERT INTO `nkbh_article` VALUES ('28', '', 'admin', '', '', '0', '1', null, null);
 INSERT INTO `nkbh_article` VALUES ('14', '这是测试文章', null, '2015-07-18', '<p><video class=\"edui-upload-video  vjs-default-skin video-js\" controls=\"\" preload=\"none\" width=\"420\" height=\"280\" src=\"/ueditor/php/upload/video/20150623/1435023027352387.mp4\" data-setup=\"{}\"><source src=\"/ueditor/php/upload/video/20150623/1435023027352387.flv\" type=\"video/mov\"/></video></p><p>这是测试的视频，MOV格式</p>', '1', '1', null, null);
 INSERT INTO `nkbh_article` VALUES ('15', '这是测试文章2', null, '2015-07-18', '<p><video class=\"edui-upload-video  vjs-default-skin video-js\" controls=\"\" preload=\"none\" width=\"420\" height=\"280\" src=\"/ueditor/php/upload/video/20150623/1435024964125050.flv\" data-setup=\"{}\"><source src=\"/ueditor/php/upload/video/20150623/1435024964125050.flv\" type=\"video/flv\"/></video></p>', '1', '1', null, null);
 INSERT INTO `nkbh_article` VALUES ('16', '这是测试文章3', null, '2015-07-18', '<p><video class=\"edui-upload-video  vjs-default-skin video-js\" controls=\"\" preload=\"none\" width=\"420\" height=\"280\" src=\"/ueditor/php/upload/video/20150623/1435032692116237.flv\" data-setup=\"{}\"><source src=\"/ueditor/php/upload/video/20150623/1435032692116237.flv\" type=\"video/flv\"/></video></p><p><br/></p><p><br/></p><p>这是第三次</p>', '3', '1', null, null);
@@ -83,7 +84,7 @@ CREATE TABLE `nkbh_aupdown` (
   `up` int(255) DEFAULT NULL,
   `down` int(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=34 DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM AUTO_INCREMENT=37 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of nkbh_aupdown
@@ -121,6 +122,9 @@ INSERT INTO `nkbh_aupdown` VALUES ('30', '27', '0', '0');
 INSERT INTO `nkbh_aupdown` VALUES ('31', '27', '0', '0');
 INSERT INTO `nkbh_aupdown` VALUES ('32', '29', '0', '0');
 INSERT INTO `nkbh_aupdown` VALUES ('33', '34', '0', '0');
+INSERT INTO `nkbh_aupdown` VALUES ('34', '35', '0', '0');
+INSERT INTO `nkbh_aupdown` VALUES ('35', '36', '0', '0');
+INSERT INTO `nkbh_aupdown` VALUES ('36', '30', '0', '0');
 
 -- ----------------------------
 -- Table structure for nkbh_auth_group
@@ -130,15 +134,15 @@ CREATE TABLE `nkbh_auth_group` (
   `id` mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
   `title` char(100) NOT NULL DEFAULT '',
   `status` tinyint(1) NOT NULL DEFAULT '1',
-  `rules` char(80) NOT NULL DEFAULT '',
+  `rules` char(255) NOT NULL DEFAULT '',
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of nkbh_auth_group
 -- ----------------------------
-INSERT INTO `nkbh_auth_group` VALUES ('1', '中级管理员', '1', '1,3,4,5,6');
-INSERT INTO `nkbh_auth_group` VALUES ('2', '初级级管理员', '1', '1,2,5,6,7');
+INSERT INTO `nkbh_auth_group` VALUES ('1', '中级管理员', '1', '1,3,4,5,6,7,14,15,16,17,19,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,41,42,43,44,45,46,47,48,49');
+INSERT INTO `nkbh_auth_group` VALUES ('2', '初级级管理员', '1', '1,2,3,5,6,7,13,14,15,45,46,47,48,49');
 
 -- ----------------------------
 -- Table structure for nkbh_auth_group_access
@@ -171,18 +175,60 @@ CREATE TABLE `nkbh_auth_rule` (
   `condition` char(100) NOT NULL DEFAULT '',
   PRIMARY KEY (`id`),
   UNIQUE KEY `name` (`name`)
-) ENGINE=MyISAM AUTO_INCREMENT=8 DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM AUTO_INCREMENT=50 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of nkbh_auth_rule
 -- ----------------------------
 INSERT INTO `nkbh_auth_rule` VALUES ('1', 'Admin/Admin/index', '后台首页', '1', '1', '');
 INSERT INTO `nkbh_auth_rule` VALUES ('2', 'Admin/Article/index', '新增文章', '1', '1', '');
-INSERT INTO `nkbh_auth_rule` VALUES ('3', 'Admin/Articlelist/index', '审核文章', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('3', 'Admin/Articlelist/index', '全部文章', '1', '1', '');
 INSERT INTO `nkbh_auth_rule` VALUES ('4', 'Admin/Window/index', '飞窗信息', '1', '1', '');
 INSERT INTO `nkbh_auth_rule` VALUES ('5', 'Admin/Admin/admin_info_update', '信息修改页面', '1', '1', '');
 INSERT INTO `nkbh_auth_rule` VALUES ('6', 'Admin/Admin/admin_info', '管理员信息', '1', '1', '');
 INSERT INTO `nkbh_auth_rule` VALUES ('7', 'Admin/Admin/adminInfoUpdate', '信息修改函数', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('8', 'Admin/Adminlist/index', '管理员列表', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('9', 'Admin/Adminlist/delet', '删除管理员', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('10', 'Admin/Adminlist/infoupdate', '修改管理员', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('11', 'Admin/Adminlist/seach', '查找管理员', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('12', 'Admin/Adminlist/update', '管理员修改页面', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('13', 'Admin/Article/articleadd', '文章添加', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('14', 'Admin/Article/articlechange', '文章修改', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('15', 'Admin/Article/change', '文章修改页', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('16', 'Admin/Articlelist/agree', '文章审核', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('17', 'Admin/Articlelist/del', '文章删除', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('18', 'Admin/Articlelist/down', '踩一下', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('19', 'Admin/Articlelist/showdetail', '文章详情', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('20', 'Admin/Articlelist/up', '顶一下', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('21', 'Admin/Column/index', '专栏管理', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('22', 'Admin/Column/change', '专栏修改页', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('23', 'Admin/Column/changeit', '专栏修改', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('24', 'Admin/File/index', '上传页', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('25', 'Admin/File/del', '删除上传', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('26', 'Admin/File/upload', '上传文件', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('27', 'Admin/Picnews/index', '图片新闻', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('28', 'Admin/Picnews/upload', '图片上传', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('29', 'Admin/Rolewin/index', '动态公告', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('30', 'Admin/Rolewin/add', '增加公告', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('31', 'Admin/Rolewin/del', '删除公告', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('32', 'Admin/Type/index', '新增分类', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('33', 'Admin/Type/add', '分类增加', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('34', 'Admin/Type/change', '分类修改', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('35', 'Admin/Type/del', '分类删除', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('36', 'Admin/Userlist/index', '用户列表页', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('37', 'Admin/Userlist/delete', '用户删除', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('38', 'Admin/Userlist/infoUpdate', '用户修改', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('39', 'Admin/Userlist/search', '用户查询', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('40', 'Admin/Userlist/update', '用户修改页', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('41', 'Admin/Videonews/index', '视频新闻', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('42', 'Admin/Videonews/upload', '视频上传', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('43', 'Admin/Window/add', '飞窗信息增加', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('44', 'Admin/Window/del', '飞窗信息删除', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('45', 'Admin/Article/carticleadd', '专栏文章增加', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('46', 'Admin/Article/carticlechange', '专栏文章修改页', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('47', 'Admin/Article/cchange', '专栏修改', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('48', 'Admin/Article/column', '专栏文章增加页', '1', '1', '');
+INSERT INTO `nkbh_auth_rule` VALUES ('49', 'Admin/Articlelist/cindex', '专栏文章管理', '1', '1', '');
 
 -- ----------------------------
 -- Table structure for nkbh_carticle
@@ -199,18 +245,20 @@ CREATE TABLE `nkbh_carticle` (
   `top` int(2) DEFAULT NULL,
   `column` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=35 DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM AUTO_INCREMENT=37 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of nkbh_carticle
 -- ----------------------------
 INSERT INTO `nkbh_carticle` VALUES ('22', '这是测试文章专栏', 'admin', '2015-07-18', '<p><img src=\"http://img.baidu.com/hi/jx2/j_0005.gif\"/>这是测试，这是测试。<img src=\"http://img.baidu.com/hi/jx2/j_0002.gif\"/></p>', '0', '1', null, '0');
+INSERT INTO `nkbh_carticle` VALUES ('35', '周五下午测试添加专栏文章', 'admin', '2026-09-29', '<p>我在进行测试，请审查</p>', '3', '1', null, '4');
+INSERT INTO `nkbh_carticle` VALUES ('36', '201573下午四点', 'admin', '2022-08-17', '<p>下午进行测试效果</p>', '4', '1', null, '4');
 INSERT INTO `nkbh_carticle` VALUES ('24', '周五下午测试第二条这是专栏测试2015-07-16', 'admin', '2028-07-17', '<p>这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试这是测试</p>', '2', '1', null, '3');
 INSERT INTO `nkbh_carticle` VALUES ('25', '我是第一', 'admin', '2015-07-18', '<p>我是第一个测试</p>', '2', '1', null, '1');
 INSERT INTO `nkbh_carticle` VALUES ('26', '就是厉害', 'admin', '2015-07-18', '<p>哦哈哈哈哈</p>', '3', '1', null, '2');
 INSERT INTO `nkbh_carticle` VALUES ('27', '还有谁', 'admin', '2015-07-18', '<p>我要打十个</p>', '4', '1', null, '4');
 INSERT INTO `nkbh_carticle` VALUES ('28', '我是叶问', 'admin', '2015-07-18', '<p>佛山第一</p>', '4', '1', null, '4');
-INSERT INTO `nkbh_carticle` VALUES ('29', '宿醉', 'admin', '2015-07-18', '<p>明天结婚</p>', '6', '1', null, '2');
+INSERT INTO `nkbh_carticle` VALUES ('29', '周五下午进行测试的第三条宿醉', 'admin', '2015-07-18', '<p>明天张帆结婚</p>', '1', '1', null, '3');
 INSERT INTO `nkbh_carticle` VALUES ('30', '致命ID', 'admin', '2015-07-18', '<p>小孩哈哈</p>', '5', '1', null, '2');
 INSERT INTO `nkbh_carticle` VALUES ('31', '我是张帆', 'admin', '2015-07-18', '<p>我为自己代言</p>', '4', '1', null, '4');
 INSERT INTO `nkbh_carticle` VALUES ('32', '我还是张帆', 'admin', '2015-07-18', '<p>一个能打都没有</p>', '3', '1', null, '2');
@@ -230,7 +278,7 @@ CREATE TABLE `nkbh_column` (
 -- ----------------------------
 -- Records of nkbh_column
 -- ----------------------------
-INSERT INTO `nkbh_column` VALUES ('1', '三严三实活动专栏');
+INSERT INTO `nkbh_column` VALUES ('1', '我就看看');
 INSERT INTO `nkbh_column` VALUES ('2', '绩效考核工作专栏');
 INSERT INTO `nkbh_column` VALUES ('3', '廉政文化建设专栏');
 INSERT INTO `nkbh_column` VALUES ('4', '网上调查评测专栏');
@@ -283,12 +331,12 @@ CREATE TABLE `nkbh_pic` (
 -- ----------------------------
 -- Records of nkbh_pic
 -- ----------------------------
-INSERT INTO `nkbh_pic` VALUES ('1', '5593ec56e0bbd.jpg', '1435757654', '2015-07-01/');
+INSERT INTO `nkbh_pic` VALUES ('6', '5596490c17f2f.jpg', '1435912460', '2015-07-03/');
 INSERT INTO `nkbh_pic` VALUES ('2', '558957ce6bb76.jpg', '1435064270', '2015-06-23/');
 INSERT INTO `nkbh_pic` VALUES ('3', '558957d65e023.jpg', '1435064278', '2015-06-23/');
 INSERT INTO `nkbh_pic` VALUES ('4', '558957dd85dee.jpg', '1435064285', '2015-06-23/');
 INSERT INTO `nkbh_pic` VALUES ('5', '558957e469b69.jpg', '1435064292', '2015-06-23/');
-INSERT INTO `nkbh_pic` VALUES ('6', '5594aea3d38ca.jpg', '1435807395', '2015-07-02/');
+INSERT INTO `nkbh_pic` VALUES ('1', '559648e27bf2d.jpg', '1435912418', '2015-07-03/');
 
 -- ----------------------------
 -- Table structure for nkbh_picnews
@@ -398,7 +446,7 @@ CREATE TABLE `nkbh_user` (
 -- ----------------------------
 -- Records of nkbh_user
 -- ----------------------------
-INSERT INTO `nkbh_user` VALUES ('5', '1111', '934b535800b1cba8f96a5d72f72f1611', 'onea', 'on', 'a', 'a', 'a@a.', '0.0.0.0', '1435911243');
+INSERT INTO `nkbh_user` VALUES ('5', '1111', '81dc9bdb52d04dc20036dbd8313ed055', 'onea', 'on', 'a', 'a', 'a@a.', '0.0.0.0', '1435925855');
 INSERT INTO `nkbh_user` VALUES ('6', '2222', '934b535800b1cba8f96a5d72f72f1611', 'two2', 'b', 'b', 'b', 'b@b.', '127.0.0.1', '1434592516');
 
 -- ----------------------------

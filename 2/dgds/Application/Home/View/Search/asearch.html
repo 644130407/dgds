@@ -15,22 +15,25 @@
                 <div class="search_box_top_main">
                     <form action="{:U('Search/asearch')}" method="post">
                         <input type="text" name="search" class="search_text"/>
-                           <input type="submit" value="" class="search_btn" style="background: url('__PUBLIC__/images/search.png') no-repeat; width: 93px;height: 37px;border:0 none;display: inline; "/>
-                           <a href="{:U('Index/index')}"><img src="__PUBLIC__/images/sreturn.png" style="display:inline;"/></a>
+                           <input type="submit" value="" class="search_btn" style="background: url('__PUBLIC__/images/search.png') no-repeat; width: 93px;height: 37px;border:0 none;display: inline; position: relative; top:5px;"/>
+                           <a href="{:U('Index/index')}" style="float:left;margin-left:20px; position: relative; top:5px;"><img src="__PUBLIC__/images/sreturn.png" style="display:inline;"/></a>
                     </form>
                 </div>
             </div>
             <div class="search_box_bottom">
                 <div class="search_box_bottom_left" style="text-align:center;">
-
+                    <if condition = "empty($article) or count($article) eq 0" >
+                        <div>暂无查询结果</div>
+                    <else />
                     <foreach name="article" item="v">
                         <div class="search_box_bottom_left_content">
-                            <h4><a href="{:U('Index/detil',array('id'=>$v['id']))}">{$v.lable}</a></h4>
+                            <h4><a href="{:U('Index/detil',array('id'=>$v['id']))}" >{$v.lable}</a></h4>
                         </div>
 
                     </foreach>
 
                     <div>{$page}</div>
+                    </if>
                 </div>
                 <div class="search_box_bottom_right"></div>
             </div>

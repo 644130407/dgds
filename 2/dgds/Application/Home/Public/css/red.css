@@ -40,7 +40,7 @@ body{background-color:rgb(240,240,240);}
 /*登录注册开始*/
 .login{
     width:100%;
-    height:35px;
+    height:29px;
     line-height:30px;
     background-color:#CCC;
     font-size:12px;			
@@ -85,7 +85,7 @@ body{background-color:rgb(240,240,240);}
     height:165px;
     overflow:hidden;
     position:relative;
-    background:url(../images/banner.png) no-repeat center;
+    background:url(../images/red_banner.png) no-repeat center;
 }
 /*导航菜单开始*/
 
@@ -126,7 +126,7 @@ body{background-color:rgb(240,240,240);}
 }
 .nav ul li a:hover{
     color:#FFF;
-    background-color:rgb(36,107,149);
+    background-color:rgb(207,32,34);
 }
 #hidden{
     width:101px;
@@ -139,7 +139,7 @@ body{background-color:rgb(240,240,240);}
 #hidden li{
     width:100%;
     height:30px;
-    background-color:rgb(36,107,149);
+    background-color:rgb(207,32,34);
     text-align:center;
     line-height:30px;
 }
@@ -228,7 +228,7 @@ body{background-color:rgb(240,240,240);}
     text-decoration:none;
 }
 .news_img_title .active{
-    background-color:rgb(36,107,149);
+    background-color:rgb(207,32,34);
 }
 .news_img_title .active a{
     color:#FFF;
@@ -263,7 +263,7 @@ img{border:0px;}
     display:block;
     height:30px;
     width:90px;
-    background-color:rgb(36,107,149);
+    background-color:rgb(207,32,34);
     text-align:center;
     line-height:30px;
     padding:0px 15px;
@@ -279,7 +279,7 @@ img{border:0px;}
     text-decoration:none;
     font-size:12px;
 }
-.news_content_center_title_s2 a:hover{color:rgb(36,107,149);}
+.news_content_center_title_s2 a:hover{color:rgb(207,32,34);}
 .junei_img{
     /*					margin-top:10px;*/
     height:72px;
@@ -306,7 +306,7 @@ img{border:0px;}
     text-overflow:ellipsis
 }
 .u1 li a:hover{
-    color:rgb(36,107,149);
+    color:rgb(207,32,34);
     text-decoration:underline;
 }
 .news_content_right .d2{
@@ -327,7 +327,7 @@ img{border:0px;}
 .d2_b{
     margin-left:10px;
     margin-right:5px;
-    color:rgb(32,80,126);
+    color:rgb(207,32,34);
     font-size:18px;
 }
 .d2_s{
@@ -389,7 +389,7 @@ img{border:0px;}
 .d3 b{
     margin-left:20px;
     margin-right:5px;
-    color:rgb(32,80,126);
+    color:rgb(207,32,34);
     font-size:18px;
     font-weight:normal;
 }
@@ -476,7 +476,7 @@ img{border:0px;}
     text-decoration:none;
 }
 .six_box_spart_title_s2 a:hover{
-    color:rgb(36,107,149);
+    color:rgb(207,32,34);
 }
 .six_img{
     width:100%;
@@ -500,7 +500,7 @@ img{border:0px;}
     text-overflow:ellipsis
 }
 .u2 li a:hover{
-    color:rgb(36,107,149);
+    color:rgb(207,32,34);
     text-decoration:underline;
 }
 /*主要内容中间六小版块区域内容结束*/
@@ -521,7 +521,7 @@ img{border:0px;}
     height:40px;
     float:left;
 }
-.six_box_right_use .d3 b{color:rgb(0,54,101);font-size:16px;}
+.six_box_right_use .d3 b{color:rgb(207,32,34);font-size:16px;}
 .six_box_right_use ul{
     width:100%;
     list-style:none;
@@ -561,7 +561,7 @@ img{border:0px;}
     color:#FFF;
     height:30px;
     width:120px;
-    background-color:rgb(0,54,101);
+    background-color:rgb(207,32,34);
     text-align:center;
 }
 #picture_roll{
@@ -592,7 +592,7 @@ img{border:0px;}
     min-height:800px;
     height:auto !important;
     height:800px;
-    overflow:visible;
+     overflow:visible;
     margin:0px auto;
     background-color:#FFF;
 }
@@ -766,18 +766,18 @@ img{border:0px;}
     width:87%;
     background:url(../images/hui_detail.png) no-repeat left;
     padding-left:25px;
-    height:40px;
+        height:40px;
     line-height: 40px;
     margin-top: 10px;}
 .detail_three_right ul li a{text-decoration:none;font-size:14px;color:rgb(70,70,70);}
 /*详情页第三部分结束*/
 /*主要内容部分结束*/
 
-.footer{float:left;width: 100%;min-width: 1200px;height: 86px;font-size: 12px;background: #003666;text-align: center;color: #fff;position: relative;margin-top:60px; }
+.footer{float:left;width: 100%;min-width: 1200px;height: 86px;font-size: 12px;background: rgb(207,32,34);;text-align: center;color: #fff;position: relative;margin-top:60px; }
 .footer0{width: 100px;height: 82px;margin: 2px 100px;float:left;background:url(../images/hui.png) no-repeat center;}
-.footer1{text-align: center;width: 540px;min-width: 570px;margin-left:200px;padding: 15px;border-bottom: 1px solid #00294f;position:absolute;left:16%;top:0px;}
+.footer1{text-align: center;width: 540px;min-width: 570px;margin-left:200px;padding: 15px;border-bottom: 1px solid rgb(197,22,24);position:absolute;left:16%;top:0px;}
 .footer1 a{text-decoration: none;color: #fff;}
-.footer2{width: 700px;margin: 0 auto;padding: 10px;border-top: 1px solid #204a70; position:absolute;top:50px;left:25%;}
+.footer2{width: 700px;margin: 0 auto;padding: 10px;border-top: 1px solid rgb(220,45,47); position:absolute;top:50px;left:25%;}
 
 /*新加下载园地部分*/
 

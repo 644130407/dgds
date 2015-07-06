@@ -150,5 +150,15 @@ class IndexController extends Controller {
             $this->error("注销成功，正在返回登录页面",U('/Index/Index'));
         }
     }
+    
+    /*
+     * author: 马斌
+     */
+    public function header(){
+        $this->display();
+    }
+    public function footer(){
+        $this->display();
+    }
 
 }
